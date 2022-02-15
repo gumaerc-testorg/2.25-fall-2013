@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Inviscid Flow and Bernoulli
 uid: c8443c53-a0eb-0285-5b68-d67bfa778cea
 ---

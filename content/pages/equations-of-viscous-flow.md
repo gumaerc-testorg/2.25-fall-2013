@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Equations of Viscous Flow
 uid: d2514ce2-d6a0-cbfe-1129-3e826418df0b
 ---

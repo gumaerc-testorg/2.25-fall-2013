@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Vorticity and Circulation
 uid: ea68260f-9d75-2aa9-035d-5c347476f313
 ---

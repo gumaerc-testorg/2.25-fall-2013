@@ -2,8 +2,12 @@
 content_type: resource
 description: This resource contains the information regarding, advanced fluid mechanics,
   equations of viscous flow.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-25-advanced-fluid-mechanics-fall-2013/f1c796b97a556ffb5d177ea138dab1d6_MIT2_25F13_Shapi8.13_Prob.pdf
+file: /media/courses/2-25-advanced-fluid-mechanics-fall-2013/f1c796b97a556ffb5d177ea138dab1d6_MIT2_25F13_Shapi8.13_Prob.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Equations of Viscous Flow
+parent_type: CourseSection
 resourcetype: Document
 title: Problem 8.13
 uid: f1c796b9-7a55-6ffb-5d17-7ea138dab1d6

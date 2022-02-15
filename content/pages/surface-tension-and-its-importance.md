@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Surface Tension and Its Importance
 uid: 8da28f65-2f34-46df-77bc-23d5e02ce3ca
 ---

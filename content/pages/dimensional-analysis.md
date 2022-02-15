@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Dimensional Analysis
 uid: f85a0bcf-40ce-500c-98e1-a45d1c65cb5f
 ---
