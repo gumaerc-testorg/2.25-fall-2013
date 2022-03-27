@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Potential Flow Theory
 parent_type: CourseSection
+parent_uid: 53f1bc6a-eaf9-05b5-f4d5-8c62ba355d8f
 resourcetype: Document
 title: Inviscid Flow Equation Sheet
 uid: b7e15803-b6ce-d6af-0255-c057c60e9715

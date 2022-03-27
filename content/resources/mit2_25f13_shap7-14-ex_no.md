@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Dimensional Analysis
 parent_type: CourseSection
+parent_uid: f85a0bcf-40ce-500c-98e1-a45d1c65cb5f
 resourcetype: Document
 title: Extra Notes for Problem 7.14
 uid: 256c875f-66ce-7c14-f4ae-40abcfb4d191

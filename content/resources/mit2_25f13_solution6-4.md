@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Potential Flow Theory
 parent_type: CourseSection
+parent_uid: 53f1bc6a-eaf9-05b5-f4d5-8c62ba355d8f
 resourcetype: Document
 title: Solution to Problem 6.4
 uid: 85cfc329-96ed-7117-83a0-20e4569bbbe6

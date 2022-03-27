@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Inviscid Flow and Bernoulli
 parent_type: CourseSection
+parent_uid: c8443c53-a0eb-0285-5b68-d67bfa778cea
 resourcetype: Document
 title: Problem 4.19
 uid: 92736e99-5538-63ab-9d40-9fef32ceed4d

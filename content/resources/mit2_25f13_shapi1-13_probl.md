@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Fluid Statics
 parent_type: CourseSection
+parent_uid: db94f9bc-6d8a-e9b8-3848-c09f9aa1c6ff
 resourcetype: Document
 title: Problem 1.13
 uid: 1f459d89-b6c2-7329-2083-6f1e76b78c71

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: More Complex Viscous-Dominated Flows
 parent_type: CourseSection
+parent_uid: 45882126-68ea-5a24-72c2-0d207998eacb
 resourcetype: Document
 title: The General Form of Reynolds Equation
 uid: f61bebaf-8ad8-c2df-fcdf-b61ed1b36996

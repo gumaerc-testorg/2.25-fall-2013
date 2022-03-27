@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Boundary Layers, Separation, and Drag
 parent_type: CourseSection
+parent_uid: bcf976d3-f9f7-a5aa-2eeb-55ae4a078dc7
 resourcetype: Document
 title: Solution to Problem 9.09
 uid: e19dcbfc-4d21-3928-5a73-00d624d79292

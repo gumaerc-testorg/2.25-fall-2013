@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Control Volume Theorems and Applications
 parent_type: CourseSection
+parent_uid: fbff7e9d-2f58-b539-80d8-8b4665b1f3ea
 resourcetype: Document
 title: Fundamental Laws of Motion for Particles, Material Volumes, and Control Volumes
 uid: d11fcb4a-d68d-875c-e88a-12c18c263932

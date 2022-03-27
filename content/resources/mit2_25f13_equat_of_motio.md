@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Equations of Viscous Flow
 parent_type: CourseSection
+parent_uid: d2514ce2-d6a0-cbfe-1129-3e826418df0b
 resourcetype: Document
 title: Equation of Motion for Viscous Flow
 uid: 83aa0d8f-d395-e8e7-d9bc-8b236ab4bfe7

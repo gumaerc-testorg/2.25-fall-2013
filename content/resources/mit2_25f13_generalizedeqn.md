@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Boundary Layers, Separation, and Drag
 parent_type: CourseSection
+parent_uid: bcf976d3-f9f7-a5aa-2eeb-55ae4a078dc7
 resourcetype: Document
 title: The Generalized Boundary Layer Equations
 uid: 37c29397-6a42-cb36-cf64-34d8c9f252df

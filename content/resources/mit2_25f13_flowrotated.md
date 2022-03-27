@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: More Complex Viscous-Dominated Flows
 parent_type: CourseSection
+parent_uid: 45882126-68ea-5a24-72c2-0d207998eacb
 resourcetype: Document
 title: Flow Inside a Cylinder Which is Suddenly Rotated
 uid: 8ef39a7f-2fe6-0199-e760-203e43facda7

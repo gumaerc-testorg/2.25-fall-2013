@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: The Continuum Viewpoint and the Equations of Motion
 parent_type: CourseSection
+parent_uid: 3fcfdad1-1e62-96bb-6260-e3cf2d650dfd
 resourcetype: Document
 title: Problem 1.00
 uid: 31e1092d-4dc5-50cf-9db7-07dcd87518b2

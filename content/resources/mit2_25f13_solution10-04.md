@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Vorticity and Circulation
 parent_type: CourseSection
+parent_uid: ea68260f-9d75-2aa9-035d-5c347476f313
 resourcetype: Document
 title: Solution to Problem 10.04
 uid: 5a8f2ab2-cbc1-19c7-e9ce-d801d3452477

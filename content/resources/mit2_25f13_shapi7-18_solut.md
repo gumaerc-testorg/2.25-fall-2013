@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Dimensional Analysis
 parent_type: CourseSection
+parent_uid: f85a0bcf-40ce-500c-98e1-a45d1c65cb5f
 resourcetype: Document
 title: Solution to Problem 7.18
 uid: c340c698-34c7-a913-4c4e-35ce88f0e276

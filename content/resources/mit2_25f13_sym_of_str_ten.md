@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Fluid Statics
 parent_type: CourseSection
+parent_uid: db94f9bc-6d8a-e9b8-3848-c09f9aa1c6ff
 resourcetype: Document
 title: Symmetry of Stress Tensor
 uid: dd8d9985-3324-9b84-96b2-cc0a241dd478

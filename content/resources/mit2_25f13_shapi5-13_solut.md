@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Control Volume Theorems and Applications
 parent_type: CourseSection
+parent_uid: fbff7e9d-2f58-b539-80d8-8b4665b1f3ea
 resourcetype: Document
 title: Solution to Problem 5.13
 uid: 98c42c72-9e3e-b9a9-84be-4c3bf6fda64b

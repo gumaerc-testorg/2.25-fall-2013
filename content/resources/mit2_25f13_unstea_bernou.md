@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Inviscid Flow and Bernoulli
 parent_type: CourseSection
+parent_uid: c8443c53-a0eb-0285-5b68-d67bfa778cea
 resourcetype: Document
 title: Unsteady Bernoulli Equation
 uid: 1ff7ec37-8256-7cdc-edab-dfd4b95c1792

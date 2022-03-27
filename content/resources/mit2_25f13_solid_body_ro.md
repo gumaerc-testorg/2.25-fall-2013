@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: The Continuum Viewpoint and the Equations of Motion
 parent_type: CourseSection
+parent_uid: 3fcfdad1-1e62-96bb-6260-e3cf2d650dfd
 resourcetype: Document
 title: Solid Body Rotation, Extra Notes
 uid: bd017dbc-7bfe-7172-3ae3-1c257c0faf0f
