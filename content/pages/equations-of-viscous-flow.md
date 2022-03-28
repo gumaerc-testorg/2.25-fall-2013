@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Equations of Viscous Flow
 uid: d2514ce2-d6a0-cbfe-1129-3e826418df0b
 ---
@@ -50,9 +51,9 @@ Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262061650) Fay, James 
 Class Notes
 -----------
 
-*   [Couette & Poiseuille Flows (PDF)]({{< baseurl >}}/resources/mit2_25f13_couet_and_pois)
-*   [Criteria for Locally Fully Developed Viscous Flow (PDF)]({{< baseurl >}}/resources/mit2_25f13_criter_for_lo)
-*   [Equation of Motion for Viscous Flow (PDF - 1.8MB)]({{< baseurl >}}/resources/mit2_25f13_equat_of_motio)
+*   {{< resource_link 1a114d60-2956-fa0d-d328-155f9b45f93d "Couette & Poiseuille Flows (PDF)" >}}
+*   {{< resource_link a40c99d7-7c5f-2849-a864-5fcfa15a606a "Criteria for Locally Fully Developed Viscous Flow (PDF)" >}}
+*   {{< resource_link 83aa0d8f-d395-e8e7-d9bc-8b236ab4bfe7 "Equation of Motion for Viscous Flow (PDF - 1.8MB)" >}}
 
 Videos Seen During Class
 ------------------------
@@ -80,37 +81,37 @@ SOLUTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem 6.05 (PDF)]({{< baseurl >}}/resources/mit2_25f13_shapi_6-05-prob)
+{{< resource_link de516639-f59e-eb61-824f-5d21e4b6b3ee "Problem 6.05 (PDF)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Solution to Problem 6.05 (PDF)]({{< baseurl >}}/resources/mit2_25f13_shapi_6-05-solut)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Problem 6.04 (PDF)]({{< baseurl >}}/resources/mit2_25f13_shapi-6-04-prob)
-{{< tdclose >}}
-{{< tdopen >}}
-[Solution to Problem 6.04 (PDF - 1.2MB)]({{< baseurl >}}/resources/mit2_25f13_shapi6-04_solut)
+{{< resource_link 8e479b75-a3ce-ec55-09b9-55763f45d120 "Solution to Problem 6.05 (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem 8.13 (PDF)]({{< baseurl >}}/resources/mit2_25f13_shapi8-13_prob)
+{{< resource_link 7a3ff726-e55b-41c2-2037-edbb3e3cd9ee "Problem 6.04 (PDF)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Solution to Problem 8.13 (PDF)]({{< baseurl >}}/resources/mit2_25f13_shapi8-13_solut)
+{{< resource_link a0611fc0-ab2e-c13c-c789-3a8205362b9e "Solution to Problem 6.04 (PDF - 1.2MB)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem 2 (PDF)]({{< baseurl >}}/resources/mit2_25f13_final_2004_q2)
+{{< resource_link f1c796b9-7a55-6ffb-5d17-7ea138dab1d6 "Problem 8.13 (PDF)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Solution to Problem 2 (PDF)]({{< baseurl >}}/resources/mit2_25f13_fin_2004_q2sol)
+{{< resource_link b329d1bf-3e61-3c56-66c8-b6ddebbc0e34 "Solution to Problem 8.13 (PDF)" >}}
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+{{< resource_link c9656bb0-1bf5-ec7b-e7de-c3e4cf60b793 "Problem 2 (PDF)" >}}
+{{< tdclose >}}
+{{< tdopen >}}
+{{< resource_link 2bb54339-b426-5350-a2a0-4c8134b47a4a "Solution to Problem 2 (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}

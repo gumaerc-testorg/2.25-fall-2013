@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Calendar
 uid: 39f6cac2-40c1-bf5d-b046-81b9894f0de9
 ---
@@ -31,7 +32,7 @@ LECTURERS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-[**The Continuum Viewpoint and the Equations of Motion**]({{< baseurl >}}/pages/the-continuum-viewpoint-and-the-equations-of-motion)
+{{< resource_link 3fcfdad1-1e62-96bb-6260-e3cf2d650dfd "**The Continuum Viewpoint and the Equations of Motion**" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -73,7 +74,7 @@ GM
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-[**Fluid Statics**]({{< baseurl >}}/pages/fluid-statics)
+{{< resource_link db94f9bc-6d8a-e9b8-3848-c09f9aa1c6ff "**Fluid Statics**" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -91,7 +92,7 @@ GM
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-[**Inviscid Flow and Bernoulli**]({{< baseurl >}}/pages/inviscid-flow-and-bernoulli)
+{{< resource_link c8443c53-a0eb-0285-5b68-d67bfa778cea "**Inviscid Flow and Bernoulli**" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -109,7 +110,7 @@ GM
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-[**Control Volume Theorems and Applications**]({{< baseurl >}}/pages/control-volume-theorems-and-applications)
+{{< resource_link fbff7e9d-2f58-b539-80d8-8b4665b1f3ea "**Control Volume Theorems and Applications**" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -151,7 +152,7 @@ GM
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-[**Equations of Viscous Flow**]({{< baseurl >}}/pages/equations-of-viscous-flow)
+{{< resource_link d2514ce2-d6a0-cbfe-1129-3e826418df0b "**Equations of Viscous Flow**" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -205,7 +206,7 @@ Quiz 1
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-[**Dimensional Analysis**]({{< baseurl >}}/pages/dimensional-analysis)
+{{< resource_link f85a0bcf-40ce-500c-98e1-a45d1c65cb5f "**Dimensional Analysis**" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -235,7 +236,7 @@ GM
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-[**More Complex Viscous-Dominated Flows**]({{< baseurl >}}/pages/more-complex-viscous-dominated-flows)
+{{< resource_link 45882126-68ea-5a24-72c2-0d207998eacb "**More Complex Viscous-Dominated Flows**" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -277,7 +278,7 @@ GM
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-[**Potential Flow Theory**]({{< baseurl >}}/pages/potential-flow-theory)
+{{< resource_link 53f1bc6a-eaf9-05b5-f4d5-8c62ba355d8f "**Potential Flow Theory**" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -307,7 +308,7 @@ GM
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-[**Vorticity and Circulation**]({{< baseurl >}}/pages/vorticity-and-circulation)
+{{< resource_link ea68260f-9d75-2aa9-035d-5c347476f313 "**Vorticity and Circulation**" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -349,7 +350,7 @@ Quiz 2
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-[**Boundary Layers, Separation and Drag**]({{< baseurl >}}/pages/boundary-layers-separation-and-drag)
+{{< resource_link bcf976d3-f9f7-a5aa-2eeb-55ae4a078dc7 "**Boundary Layers, Separation and Drag**" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -391,7 +392,7 @@ GM
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-[**Surface Tension and Its Importance**]({{< baseurl >}}/pages/surface-tension-and-its-importance)
+{{< resource_link 8da28f65-2f34-46df-77bc-23d5e02ce3ca "**Surface Tension and Its Importance**" >}}
 {{< tdclose >}}
 
 {{< trclose >}}

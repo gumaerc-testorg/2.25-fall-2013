@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: More Complex Viscous-Dominated Flows
 uid: 45882126-68ea-5a24-72c2-0d207998eacb
 ---
@@ -48,10 +49,10 @@ _Reading in:_ Kundu, Pijush K., and Ira M. Cohen. _Fluid Mechanics_. 6th ed. Aca
 Class Notes
 -----------
 
-*   [Couette & Poiseuille Flows (PDF)]({{< baseurl >}}/resources/mit2_25f13_couet_and_pois)
-*   [Criteria for Locally Fully Developed Viscous Flow (PDF)]({{< baseurl >}}/resources/mit2_25f13_criteriaviscous)
-*   [Flow Inside a Cylinder Which is Suddenly Rotated (PDF)]({{< baseurl >}}/resources/mit2_25f13_flowrotated)
-*   [The General Form of Reynolds Equation (PDF)]({{< baseurl >}}/resources/mit2_25f13_generalform)
+*   {{< resource_link 1a114d60-2956-fa0d-d328-155f9b45f93d "Couette & Poiseuille Flows (PDF)" >}}
+*   {{< resource_link 0de558cc-4fe1-dc08-dc54-b565b686d466 "Criteria for Locally Fully Developed Viscous Flow (PDF)" >}}
+*   {{< resource_link 8ef39a7f-2fe6-0199-e760-203e43facda7 "Flow Inside a Cylinder Which is Suddenly Rotated (PDF)" >}}
+*   {{< resource_link f61bebaf-8ad8-c2df-fcdf-b61ed1b36996 "The General Form of Reynolds Equation (PDF)" >}}
 
 Videos Seen During Class
 ------------------------
@@ -78,34 +79,34 @@ SOLUTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem 8.02 (PDF)]({{< baseurl >}}/resources/mit2_25f13_problem8-02)
+{{< resource_link 2f13f4a1-dac2-a5e6-3cbf-e3b986eafe44 "Problem 8.02 (PDF)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Solution to Problem 8.02 (PDF)]({{< baseurl >}}/resources/mit2_25f13_solution8-02)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Stokes First Problem ATP (PDF)]({{< baseurl >}}/resources/mit2_25f13_problemstokes1)
-{{< tdclose >}}
-{{< tdopen >}}
-[Solution to Stokes First Problem ATP (PDF)]({{< baseurl >}}/resources/mit2_25f13_solutionstokes1)
+{{< resource_link 6c049b6c-ecfe-6396-601c-2011835d1525 "Solution to Problem 8.02 (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Stokes Second Problem ATP (PDF)]({{< baseurl >}}/resources/mit2_25f13_problemstokes2)
+{{< resource_link e71a25f7-3ddd-1b4b-b0ae-232edc1aae3c "Stokes First Problem ATP (PDF)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Solution to Stokes Second Problem ATP (PDF)]({{< baseurl >}}/resources/mit2_25f13_solutionstokes2)
+{{< resource_link 6c64b723-40cd-5b5d-a9a0-d59516b63aec "Solution to Stokes First Problem ATP (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Viscous Decay of a Free Vortex (PDF)]({{< baseurl >}}/resources/mit2_25f13_viscousdecay)
+{{< resource_link facf1562-50bc-1288-179f-85e2245e4005 "Stokes Second Problem ATP (PDF)" >}}
+{{< tdclose >}}
+{{< tdopen >}}
+{{< resource_link ae8a045f-b09d-5068-6cc1-764c296f83f1 "Solution to Stokes Second Problem ATP (PDF)" >}}
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+{{< resource_link 9a9a4891-fb1e-7df9-8849-e3b640ccdd88 "Viscous Decay of a Free Vortex (PDF)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Solution is not available.
@@ -132,46 +133,46 @@ SOLUTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem 6.01 (PDF)]({{< baseurl >}}/resources/mit2_25f13_problem6-01)
+{{< resource_link 98d589ac-d8ab-56ed-8f45-7cd1a31fe3ad "Problem 6.01 (PDF)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Solution to Problem 6.01 (PDF)]({{< baseurl >}}/resources/mit2_25f13_solution6-01)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Problem 6.13 (PDF)]({{< baseurl >}}/resources/mit2_25f13_problem6-13)
-{{< tdclose >}}
-{{< tdopen >}}
-[Solution to Problem 6.13 (PDF)]({{< baseurl >}}/resources/mit2_25f13_solution6-13)
+{{< resource_link 959554b3-a9fe-b668-ce59-e14b2f6778b9 "Solution to Problem 6.01 (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem 6.16 (PDF)]({{< baseurl >}}/resources/mit2_25f13_problem6-16)
+{{< resource_link 10810f3d-b0d4-c274-fa71-76c8d769024e "Problem 6.13 (PDF)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Solution to Problem 6.16 (PDF)]({{< baseurl >}}/resources/mit2_25f13_solution6-16)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Problem 6.20 (PDF)]({{< baseurl >}}/resources/mit2_25f13_problem6-20)
-{{< tdclose >}}
-{{< tdopen >}}
-[Solution to Problem 6.20 (PDF)]({{< baseurl >}}/resources/mit2_25f13_solution6-20)
+{{< resource_link 9395299e-bd90-cdc6-b4f3-7dc6319d7394 "Solution to Problem 6.13 (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem 6.21 (PDF)]({{< baseurl >}}/resources/mit2_25f13_problem6-21)
+{{< resource_link b021990c-a79c-27a6-5119-824d446b96c6 "Problem 6.16 (PDF)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Solution to Problem 6.21 (PDF)]({{< baseurl >}}/resources/mit2_25f13_solution6-21)
+{{< resource_link 3f8131f9-5ec2-7b7d-c4ea-97a26f088e1c "Solution to Problem 6.16 (PDF)" >}}
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+{{< resource_link b59a74ea-e7d2-b673-d81e-06859d7d9e7a "Problem 6.20 (PDF)" >}}
+{{< tdclose >}}
+{{< tdopen >}}
+{{< resource_link eafe3c57-5980-97ce-6b8d-4a5fc6e33a7c "Solution to Problem 6.20 (PDF)" >}}
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+{{< resource_link 9ed9643c-1138-7cf3-7851-28ce21f5b92b "Problem 6.21 (PDF)" >}}
+{{< tdclose >}}
+{{< tdopen >}}
+{{< resource_link b45f343e-86d4-aa4c-121d-59bae6054639 "Solution to Problem 6.21 (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}

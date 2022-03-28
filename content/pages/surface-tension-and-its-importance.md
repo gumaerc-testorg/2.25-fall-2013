@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Surface Tension and Its Importance
 uid: 8da28f65-2f34-46df-77bc-23d5e02ce3ca
 ---
@@ -51,37 +52,37 @@ SOLUTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem 2.02 (PDF)]({{< baseurl >}}/resources/mit2_25f13_problem2-02)
+{{< resource_link 5f02698e-68a0-10bf-b3c6-ab1a34d76325 "Problem 2.02 (PDF)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Solution to Problem 2.02 (PDF)]({{< baseurl >}}/resources/mit2_25f13_solution2-02)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Problem 2.05 (PDF)]({{< baseurl >}}/resources/mit2_25f13_problem2-05)
-{{< tdclose >}}
-{{< tdopen >}}
-[Solution to Problem 2.05 (PDF)]({{< baseurl >}}/resources/mit2_25f13_solution2-05)
+{{< resource_link 6497c3de-d873-8e79-064b-020356d38922 "Solution to Problem 2.02 (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem 2.06 (PDF)]({{< baseurl >}}/resources/mit2_25f13_problem2-06)
+{{< resource_link e13bd06e-5936-1dce-7112-1cfa97aa96dd "Problem 2.05 (PDF)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Solution to Problem 2.06 (PDF)]({{< baseurl >}}/resources/mit2_25f13_solution2-06)
+{{< resource_link a9975ccd-2c38-0b3f-fa44-16cb2fc4a670 "Solution to Problem 2.05 (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem 2.07 (PDF)]({{< baseurl >}}/resources/mit2_25f13_problem2-07)
+{{< resource_link 0176c6f8-41b0-435e-4080-56830cb4518f "Problem 2.06 (PDF)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Solution to Problem 2.07 (PDF)]({{< baseurl >}}/resources/mit2_25f13_solution2-07)
+{{< resource_link 8199b05c-fb8d-7c72-08e8-08f837ec87da "Solution to Problem 2.06 (PDF)" >}}
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+{{< resource_link ce68d8c9-adae-c615-cdf2-8ebad160cca7 "Problem 2.07 (PDF)" >}}
+{{< tdclose >}}
+{{< tdopen >}}
+{{< resource_link 2f0bee19-09b7-c176-0d69-671d273d4286 "Solution to Problem 2.07 (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
