@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to, advanced fluid mechanics,
   inviscid flow and bernoulli.
-file: /media/courses/2-25-advanced-fluid-mechanics-fall-2013/92736e99553863ab9d409fef32ceed4d_MIT2_25F13_Shapi4.19_Prob.pdf
+file: /courses/2-25-advanced-fluid-mechanics-fall-2013/92736e99553863ab9d409fef32ceed4d_MIT2_25F13_Shapi4.19_Prob.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -13,3 +13,5 @@ resourcetype: Document
 title: Problem 4.19
 uid: 92736e99-5538-63ab-9d40-9fef32ceed4d
 ---
+This resource contains information related to, advanced fluid mechanics, inviscid flow and bernoulli.
+
