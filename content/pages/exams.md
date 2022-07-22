@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the quizzes and exams for the course, solutions,
+  and an associated equation sheet.
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Exams
 uid: 9682f263-e14e-49fb-36fb-276c11f41c22
 ---
@@ -25,34 +30,34 @@ SOLUTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Quiz 1 (PDF)]({{< baseurl >}}/resources/mit2_25f13_quiz1)
+{{% resource_link e0827193-f6f7-99cc-371d-7eae34c38c69 "Quiz 1 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Solutions to Quiz 1 (PDF)]({{< baseurl >}}/resources/mit2_25f13_solquiz1)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Quiz 2 (PDF)]({{< baseurl >}}/resources/mit2_25f13_quiz2)
-{{< tdclose >}}
-{{< tdopen >}}
-[Solutions to Quiz 2 (PDF - 1.2MB)]({{< baseurl >}}/resources/mit2_25f13_solquiz2)
+{{% resource_link 92f65cbd-9038-d252-5c61-c265527f148e "Solutions to Quiz 1 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
+{{% resource_link 43300aca-aacf-e5bc-552f-1c7632185ccc "Quiz 2 (PDF)" %}}
+{{< tdclose >}}
+{{< tdopen >}}
+{{% resource_link c17a4410-6364-b365-0c19-b4c9a579d0c5 "Solutions to Quiz 2 (PDF - 1.2MB)" %}}
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
 
 
-[Final Exam (PDF)]({{< baseurl >}}/resources/mit2_25f13_finalexam)
+{{% resource_link cc50bdf5-95a6-15c6-279b-35367995f1e2 "Final Exam (PDF)" %}}
 
-[Equation Sheet for Final Exam (PDF)]({{< baseurl >}}/resources/mit2_25f13_equationsheet)
+{{% resource_link 53faf913-5b15-c4e4-19ca-8dfd9e74a735 "Equation Sheet for Final Exam (PDF)" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Solutions to the Final Exam (PDF - 1.1MB)]({{< baseurl >}}/resources/mit2_25f13_solfinalexam)
+{{% resource_link e53775b7-c7cd-db1c-6b60-cf12e8f3fede "Solutions to the Final Exam (PDF - 1.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

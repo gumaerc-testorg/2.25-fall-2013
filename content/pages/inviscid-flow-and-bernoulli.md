@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides readings, class notes, videos seen during class,
+  and problems with solutions for a lecture on inviscid flow and Bernoulli.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Inviscid Flow and Bernoulli
 uid: c8443c53-a0eb-0285-5b68-d67bfa778cea
 ---
@@ -32,13 +36,13 @@ _Reading in_: Kundu, Pijush K., and Ira M. Cohen. _Fluid Mechanics_. 6th ed. Aca
 Class Notes
 -----------
 
-*   [Equation of Motion in Streamline Coordinates (PDF)]({{< baseurl >}}/resources/mit2_25f13_equation_of_mo)
-*   [Unsteady Bernoulli Equation (PDF)]({{< baseurl >}}/resources/mit2_25f13_unstea_bernou)
+*   {{% resource_link 7d784c60-e3ae-99f3-11d0-ea7dc2e4d60d "Equation of Motion in Streamline Coordinates (PDF)" %}}
+*   {{% resource_link 1ff7ec37-8256-7cdc-edab-dfd4b95c1792 "Unsteady Bernoulli Equation (PDF)" %}}
 
 Video Seen During Class
 -----------------------
 
-*   [Pressure Fields and Fluid Acceleration Video](https://youtu.be/LI9Mi1KhFTs) and ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Film Notes (PDF - 1.3MB)](http://web.mit.edu/hml/ncfmf/06PFFA.pdf)
+*   [Pressure Fields and Fluid Acceleration Video](https://youtu.be/LI9Mi1KhFTs) and [Film Notes (PDF - 1.3MB)](http://web.mit.edu/hml/ncfmf/06PFFA.pdf)
 
 Assignment
 ----------
@@ -60,55 +64,55 @@ SOLUTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem 4.04 (PDF)]({{< baseurl >}}/resources/mit2_25f13_shapi4-04_prob)
+{{% resource_link b19032d4-5994-767b-4516-c32331d25fd0 "Problem 4.04 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Solution to Problem 4.04 (PDF)]({{< baseurl >}}/resources/mit2_25f13_shapi4-04_sol)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Problem 4.05 (PDF)]({{< baseurl >}}/resources/mit2_25f13_shapi4-05_prob)
-{{< tdclose >}}
-{{< tdopen >}}
-[Solution to Problem 4.05 (PDF)]({{< baseurl >}}/resources/mit2_25f13_shapi4-05_solu)
+{{% resource_link b670c930-c356-7988-d6d8-d994d0693e79 "Solution to Problem 4.04 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem 4.09 (PDF)]({{< baseurl >}}/resources/mit2_25f13_shapi4-09_prob)
+{{% resource_link a05f9677-4cb2-dc55-7e50-da3d4636d7ab "Problem 4.05 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Solution to Problem 4.09 (PDF)]({{< baseurl >}}/resources/mit2_25f13_shapi4-09_solu)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Problem 4.11 (PDF)]({{< baseurl >}}/resources/mit2_25f13_shapi4-11_prob)
-{{< tdclose >}}
-{{< tdopen >}}
-[Solution to Problem 4.11 (PDF)]({{< baseurl >}}/resources/mit2_25f13_shapi4-11_solu)
+{{% resource_link 4dd2cdea-8954-6907-717d-095986c4f66e "Solution to Problem 4.05 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem 4.12 (PDF)]({{< baseurl >}}/resources/mit2_25f13_shapi4-12_prob)
+{{% resource_link cd0a8e4f-ebae-e09e-1446-81457ec06318 "Problem 4.09 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Solution to Problem 4.12 (PDF)]({{< baseurl >}}/resources/mit2_25f13_shapi4-12_solu)
+{{% resource_link 4dce2200-5004-22ff-1a4b-20b519eaad51 "Solution to Problem 4.09 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem 4.19 (PDF)]({{< baseurl >}}/resources/mit2_25f13_shapi4-19_prob)
+{{% resource_link 9d3a698b-8eaf-3ccb-08e2-7691f54e3cf7 "Problem 4.11 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Solution to Problem 4.19 (PDF)]({{< baseurl >}}/resources/mit2_25f13_shapi4-19_solu)
+{{% resource_link 1c7e4d3e-c6eb-31e8-55c6-fc003be88702 "Solution to Problem 4.11 (PDF)" %}}
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+{{% resource_link 7704eb83-13aa-9e28-ce78-67e73060581c "Problem 4.12 (PDF)" %}}
+{{< tdclose >}}
+{{< tdopen >}}
+{{% resource_link 3ef91074-cafa-a5ca-9521-d99a79a12193 "Solution to Problem 4.12 (PDF)" %}}
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+{{% resource_link 92736e99-5538-63ab-9d40-9fef32ceed4d "Problem 4.19 (PDF)" %}}
+{{< tdclose >}}
+{{< tdopen >}}
+{{% resource_link 14e90f21-11b5-aee0-d04e-d857cc7c9dee "Solution to Problem 4.19 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

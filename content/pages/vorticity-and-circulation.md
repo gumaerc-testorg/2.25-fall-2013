@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides readings, class notes, videos seen during class,
+  and problems with solutions for two lectures on vorticity and circulation.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Vorticity and Circulation
 uid: ea68260f-9d75-2aa9-035d-5c347476f313
 ---
@@ -55,55 +59,55 @@ SOLUTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem 10.2 (PDF)]({{< baseurl >}}/resources/mit2_25f13_problem10-02)
+{{% resource_link 406b0357-dd38-b0bb-73a5-2e7d615e1e55 "Problem 10.2 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Solution to Problem 10.2 (PDF)]({{< baseurl >}}/resources/mit2_25f13_solution10-02)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Problem 10.3 (PDF)]({{< baseurl >}}/resources/mit2_25f13_problem10-03)
-{{< tdclose >}}
-{{< tdopen >}}
-[Solution to Problem 10.3 (PDF)]({{< baseurl >}}/resources/mit2_25f13_solution10-03)
+{{% resource_link fb9a43a9-ba8c-ed67-b13e-f4a8e3918b4e "Solution to Problem 10.2 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem 10.04 (PDF)]({{< baseurl >}}/resources/mit2_25f13_problem10-04)
+{{% resource_link cdde059b-7b27-ff0a-f047-7ceed10ce0d6 "Problem 10.3 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Solution to Problem 10.04 (PDF)]({{< baseurl >}}/resources/mit2_25f13_solution10-04)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Problem 10.05 (PDF)]({{< baseurl >}}/resources/mit2_25f13_problem10-05)
-{{< tdclose >}}
-{{< tdopen >}}
-[Solution to Problem 10.05 (PDF)]({{< baseurl >}}/resources/mit2_25f13_solution10-05)
+{{% resource_link 4053f8a3-1c42-65e3-c8b0-86e6c9de4e94 "Solution to Problem 10.3 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem 10.11 (PDF)]({{< baseurl >}}/resources/mit2_25f13_problem10-11)
+{{% resource_link ccbba590-30bf-bee1-847f-d7650ac45c53 "Problem 10.04 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Solution to Problem 10.11 (PDF)]({{< baseurl >}}/resources/mit2_25f13_solution10-11)
+{{% resource_link 5a8f2ab2-cbc1-19c7-e9ce-d801d3452477 "Solution to Problem 10.04 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem 10.16 (PDF)]({{< baseurl >}}/resources/mit2_25f13_problem10-16)
+{{% resource_link fa9945c5-0425-278d-8a6b-0ea46f376948 "Problem 10.05 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Solution to Problem 10.16 (PDF)]({{< baseurl >}}/resources/mit2_25f13_solution10-16)
+{{% resource_link 63b38e09-f7ba-a253-7ef5-68e16894f8a6 "Solution to Problem 10.05 (PDF)" %}}
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+{{% resource_link 44f1911d-dda6-9042-48bd-6b7ded55f7fa "Problem 10.11 (PDF)" %}}
+{{< tdclose >}}
+{{< tdopen >}}
+{{% resource_link 5a6bb20e-9e51-d7e0-04c3-ba9faea594b1 "Solution to Problem 10.11 (PDF)" %}}
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+{{% resource_link fa35a4cc-a3f3-441a-01e3-b51cb941b58b "Problem 10.16 (PDF)" %}}
+{{< tdclose >}}
+{{< tdopen >}}
+{{% resource_link 3cabcb2c-eafb-554d-83d8-a36d30074ec3 "Solution to Problem 10.16 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

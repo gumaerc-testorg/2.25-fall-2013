@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides readings, class notes, videos seen during class,
+  and problems with solutions for two lectures on potential flow theory.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Potential Flow Theory
 uid: 53f1bc6a-eaf9-05b5-f4d5-8c62ba355d8f
 ---
@@ -53,15 +57,15 @@ _Reading in:_ Kundu, Pijush K., and Ira M. Cohen. _Fluid Mechanics_. 6th ed. Aca
 Class Notes
 -----------
 
-*   [Equation of Motion in Streamline Coordinates (PDF)]({{< baseurl >}}/resources/mit2_25f13_equationmotion)
-*   [Fluid Mechanics Equation Sheet (PDF)]({{< baseurl >}}/resources/mit2_25f13_formulasheet)
-*   [Inviscid Flow Equation Sheet (PDF)]({{< baseurl >}}/resources/mit2_25f13_inviscidupdated)
+*   {{% resource_link 1e684710-c331-4940-59c6-9296f48fd09f "Equation of Motion in Streamline Coordinates (PDF)" %}}
+*   {{% resource_link fecad1d7-b501-558b-fbbf-9a4414d7d17a "Fluid Mechanics Equation Sheet (PDF)" %}}
+*   {{% resource_link b7e15803-b6ce-d6af-0255-c057c60e9715 "Inviscid Flow Equation Sheet (PDF)" %}}
 
 Videos Seen During Class
 ------------------------
 
-*   [Pressure Fields and Fluid Acceleration Video](https://youtu.be/LI9Mi1KhFTs) and ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Film Notes (PDF - 1.3MB)](http://web.mit.edu/hml/ncfmf/06PFFA.pdf)
-*   [Vorticity, Part 1 Video](https://youtu.be/loCLkcYEWD4), [Part 2 Video](https://youtu.be/h6bmrRFYFbc), and ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Film Notes (PDF - 2.8MB)](http://web.mit.edu/hml/ncfmf/09VOR.pdf)
+*   [Pressure Fields and Fluid Acceleration Video](https://youtu.be/LI9Mi1KhFTs) and [Film Notes (PDF - 1.3MB)](http://web.mit.edu/hml/ncfmf/06PFFA.pdf)
+*   [Vorticity, Part 1 Video](https://youtu.be/loCLkcYEWD4), [Part 2 Video](https://youtu.be/h6bmrRFYFbc), and [Film Notes (PDF - 2.8MB)](http://web.mit.edu/hml/ncfmf/09VOR.pdf)
 
 Assignment
 ----------
@@ -83,37 +87,37 @@ SOLUTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem 6.4 (PDF)]({{< baseurl >}}/resources/mit2_25f13_problem6-4)
+{{% resource_link aac01df1-3a68-b0ab-7838-ae459dfc1a14 "Problem 6.4 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Solution to Problem 6.4 (PDF)]({{< baseurl >}}/resources/mit2_25f13_solution6-4)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Problem 6.8 (PDF)]({{< baseurl >}}/resources/mit2_25f13_problem6-8)
-{{< tdclose >}}
-{{< tdopen >}}
-[Solution to Problem 6.8 (PDF)]({{< baseurl >}}/resources/mit2_25f13_solution6-8)
+{{% resource_link 85cfc329-96ed-7117-83a0-20e4569bbbe6 "Solution to Problem 6.4 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem 6.14 (PDF)]({{< baseurl >}}/resources/mit2_25f13_problem6-14)
+{{% resource_link c0785281-8b4e-04be-dd46-2aa1d9debfb9 "Problem 6.8 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Solution to Problem 6.14 (PDF)]({{< baseurl >}}/resources/mit2_25f13_solution6-14)
+{{% resource_link 425c9ed5-02e7-dc83-5380-a90df302e918 "Solution to Problem 6.8 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[The Magnus Effect (PDF)]({{< baseurl >}}/resources/mit2_25f13_problemmagnus)
+{{% resource_link 3db3e2d9-ef39-ffae-41b1-2a8572d0ddfc "Problem 6.14 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Solution to the Magnus Effect (PDF)]({{< baseurl >}}/resources/mit2_25f13_solutionmagnus)
+{{% resource_link 376ceb80-6d62-1d1c-7b27-a1f8fdc2c13e "Solution to Problem 6.14 (PDF)" %}}
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+{{% resource_link 4e1d00b4-3c81-4040-4957-a303ee9a20fd "The Magnus Effect (PDF)" %}}
+{{< tdclose >}}
+{{< tdopen >}}
+{{% resource_link 4f196daf-a543-9556-0954-dd87bc69340b "Solution to the Magnus Effect (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
