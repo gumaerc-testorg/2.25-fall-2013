@@ -6,6 +6,7 @@ file: /courses/2-25-advanced-fluid-mechanics-fall-2013/92f65cbd9038d2525c61c2655
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Solutions to Quiz 1
 uid: 92f65cbd-9038-d252-5c61-c265527f148e
 ---
 This file contains information regarding advanced fluid mechanics, quiz 1 solutions.
-

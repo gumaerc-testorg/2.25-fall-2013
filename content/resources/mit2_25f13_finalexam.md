@@ -6,6 +6,7 @@ file: /courses/2-25-advanced-fluid-mechanics-fall-2013/cc50bdf595a615c6279b35367
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Final Exam
 uid: cc50bdf5-95a6-15c6-279b-35367995f1e2
 ---
 This file contains information regarding advanced fluid mechanics, final exam.
-
