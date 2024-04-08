@@ -15,13 +15,12 @@ Readings
 
 ### Textbooks
 
-_Reading in:_ Panton, Ronald L. _Incompressible Flow_. 4th ed. Wiley, 2013. ISBN: 9781118013434. \[Preview with [Google Books](http://books.google.com/books?id=sa4eAAAAQBAJ&pg=PAfrontcover)\]
+_Reading in:_ Panton, Ronald L. _Incompressible Flow_. 4th ed. Wiley, 2013. ISBN: 9781118013434. \[Preview with {{% resource_link "8a850f21-fb9a-4c40-bed8-caa4583ccc78" "Google Books" %}}\]
 
 *   Chapter 7: Some Incompressible Flow Patterns
 *   Chapter 21: Flow at Low Reynolds Numbers
 
-_Reading in:_ [![Buy at MIT
-Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262061650) Fay, James A. _Introduction to Fluid Mechanics_. MIT Press, 1994. ISBN: 9780262061650. \[Preview with [Google Books](http://books.google.com/books?id=XGVpue4954wC&pg=PAfrontcover)\]
+_Reading in:_ {{% resource_link "3d347e04-5839-4cc8-9c01-25a47317ee83" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Fay, James A. _Introduction to Fluid Mechanics_. MIT Press, 1994. ISBN: 9780262061650. \[Preview with {{% resource_link "831e5e72-233e-4a85-8a81-8654cbe75655" "Google Books" %}}\]
 
 *   Chapter 6: Laminar Viscous Flow
     *   6.1: Introduction
@@ -44,8 +43,8 @@ _Reading in:_ Kundu, Pijush K., and Ira M. Cohen. _Fluid Mechanics_. 6th ed. Aca
 ### Additional Readings
 
 *   Zeidan, F. Y., and Dilip Jain. "Application of Hydrodynamic Thrust Bearings in Submersible Pumps." Paper Presented at the ESP Workshop Held in Houston, TX, April 26–28, 2000.
-*   ["A General Guide to the Principles, Operation and Troubleshooting of Hydrodynamic Bearings." (PDF)](http://www.kingsbury.com/pdf/universe_brochure.pdf) Kingsbury, Inc.
-*   McHugh, Jim. ["Albert Kingsbury – His Life and Times." (PDF)](http://www.massengineers.com/Documents/albert_kingsbury.pdf) _Sound & Vibration_. October 2003.
+*   {{% resource_link "71b289eb-f7b4-4601-a5eb-15d94675fa7c" "\"A General Guide to the Principles, Operation and Troubleshooting of Hydrodynamic Bearings.\" (PDF)" %}} Kingsbury, Inc.
+*   McHugh, Jim. {{% resource_link "387cdd44-e62f-42c0-82b7-66ce87fd7538" "\"Albert Kingsbury – His Life and Times.\" (PDF)" %}} _Sound & Vibration_. October 2003.
 
 Class Notes
 -----------
@@ -58,7 +57,7 @@ Class Notes
 Videos Seen During Class
 ------------------------
 
-*   [Low Reynolds Number Flow Video](https://youtu.be/51-6QCJTAjU) and [Film Notes (PDF - 1.6MB)](http://web.mit.edu/hml/ncfmf/07LRNF.pdf)
+*   {{% resource_link "aa63be5b-8864-413d-a910-acd006c30b72" "Low Reynolds Number Flow Video" %}} and {{% resource_link "7a732df4-7e33-48f8-bd03-66f8adf5ccf9" "Film Notes (PDF - 1.6MB)" %}}
 
 Assignments
 -----------

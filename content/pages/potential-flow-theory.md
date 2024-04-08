@@ -15,7 +15,7 @@ Readings
 
 ### Textbooks
 
-_Reading in:_ Panton, Ronald L. _Incompressible Flow_. 4th ed. Wiley, 2013. ISBN: 9781118013434. \[Preview with [Google Books](http://books.google.com/books?id=sa4eAAAAQBAJ&pg=PAfrontcover)\]
+_Reading in:_ Panton, Ronald L. _Incompressible Flow_. 4th ed. Wiley, 2013. ISBN: 9781118013434. \[Preview with {{% resource_link "8a850f21-fb9a-4c40-bed8-caa4583ccc78" "Google Books" %}}\]
 
 *   Chapter 18: Ideal Flows in a Plane
     *   18.1: Problem Formulation for Plane Idea Flows
@@ -48,11 +48,11 @@ _Reading in:_ Kundu, Pijush K., and Ira M. Cohen. _Fluid Mechanics_. 6th ed. Aca
 
 ### Additional Readings
 
-*   [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262140263) Newman, John Nicholas. "Hydrodynamic Pressure Forces." Section 4.12 in _Marine Hydrodynamics_. MIT Press, 1977. ISBN: 9780262140263. \[Preview with [Google Books](http://books.google.com/books?id=nj-k_lAmaBYC&pg=PA132=onepage)\]
-*   Astarita, Gianni, and Michael E. Mackay. "[The Generalized Engineering Bernoulli Equation (GEBE) and the First and Second Laws of Thermodynamics for Viscoelastic Fluids](http://dx.doi.org/10.1122/1.550746)." _Journal of Rheology_ 40, no. 3 (1996): 335–46.
-*   [Professor Jane Wang's website](http://dragonfly.tam.cornell.edu/) on dragonfly flight and the role of vorticity shedding in fluttering and tumbling.
-*   [Vortex Ring Gun website](https://defense-update.com/20071205_vortex-ring.html). A quick web-search shows that these "non-lethal weapons" are still actively being considered.
-*   [NASA Aircraft Complete Wingtip Vortex Study](http://www.spaceref.com/news/viewpr.html?pid=6940)
+*   {{% resource_link "88f0088a-c704-49ce-8713-2e48182c0590" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Newman, John Nicholas. "Hydrodynamic Pressure Forces." Section 4.12 in _Marine Hydrodynamics_. MIT Press, 1977. ISBN: 9780262140263. \[Preview with {{% resource_link "75487af0-32ad-4f78-889c-48ffd25b5ec5" "Google Books" %}}\]
+*   Astarita, Gianni, and Michael E. Mackay. "{{% resource_link "ebd4443a-4877-4b5d-aeb8-161de0969bdc" "The Generalized Engineering Bernoulli Equation (GEBE) and the First and Second Laws of Thermodynamics for Viscoelastic Fluids" %}}." _Journal of Rheology_ 40, no. 3 (1996): 335–46.
+*   {{% resource_link "ccbfe103-ab5b-405a-8600-b385a110f98c" "Professor Jane Wang's website" %}} on dragonfly flight and the role of vorticity shedding in fluttering and tumbling.
+*   {{% resource_link "ea3043bf-575c-4657-813a-87ede6e915e3" "Vortex Ring Gun website" %}}. A quick web-search shows that these "non-lethal weapons" are still actively being considered.
+*   {{% resource_link "0cab4e96-7d6e-4afa-b196-95428fb1d629" "NASA Aircraft Complete Wingtip Vortex Study" %}}
 
 Class Notes
 -----------
@@ -64,8 +64,8 @@ Class Notes
 Videos Seen During Class
 ------------------------
 
-*   [Pressure Fields and Fluid Acceleration Video](https://youtu.be/LI9Mi1KhFTs) and [Film Notes (PDF - 1.3MB)](http://web.mit.edu/hml/ncfmf/06PFFA.pdf)
-*   [Vorticity, Part 1 Video](https://youtu.be/loCLkcYEWD4), [Part 2 Video](https://youtu.be/h6bmrRFYFbc), and [Film Notes (PDF - 2.8MB)](http://web.mit.edu/hml/ncfmf/09VOR.pdf)
+*   {{% resource_link "306ffa7f-42d5-489a-9ad0-afe8f0057f61" "Pressure Fields and Fluid Acceleration Video" %}} and {{% resource_link "f30cc518-0c3a-430c-a5e3-c6e7f2fd4d6b" "Film Notes (PDF - 1.3MB)" %}}
+*   {{% resource_link "e022fdc2-0897-4ba1-9822-636e8bed7f56" "Vorticity, Part 1 Video" %}}, {{% resource_link "ba2bd142-bbea-4088-bd93-b5c510ccfe1a" "Part 2 Video" %}}, and {{% resource_link "a4762ed0-2244-420b-a420-e63787676c3f" "Film Notes (PDF - 2.8MB)" %}}
 
 Assignment
 ----------
