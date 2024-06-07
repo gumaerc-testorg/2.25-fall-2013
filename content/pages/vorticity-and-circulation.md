@@ -28,15 +28,15 @@ _Reading in:_ Kundu, Pijush K., and Ira M. Cohen. _Fluid Mechanics._ 6th ed. Aca
 
 ### Additional Readings
 
-*   {{% resource_link "9ab6076a-2a68-4182-a6c4-6afa552dd1e4" "PITCHf/x on Wikipedia" %}}. Interesting reference on Magnus force in baseball for those of you who watch baseball or use {{% resource_link "89c1f9b8-b51b-46ae-bbc0-a6c52ec0909d" "MLB's Gameday™ app" %}}: Trajectory analysis incorporates the Magnus effect.
+*   [PITCHf/x on Wikipedia](http://en.wikipedia.org/wiki/PITCHf/x). Interesting reference on Magnus force in baseball for those of you who watch baseball or use [MLB's Gameday™ app](http://mlb.mlb.com/mobile/gameday.jsp): Trajectory analysis incorporates the Magnus effect.
 
 Videos Seen During Class
 ------------------------
 
-*   torenheksje. "Dolphins Blow Bubble Air Rings." January 25, 2008. YouTube. {{% resource_link "9be91c0b-074f-439e-b962-f21df16689ba" "https://youtu.be/bT-fctr32pE" %}}  
+*   torenheksje. "Dolphins Blow Bubble Air Rings." January 25, 2008. YouTube. [https://youtu.be/bT-fctr32pE](https://youtu.be/bT-fctr32pE)  
     YouTube has a number of great links of dolphins & beluga playing with vortex rings; clearly they are masters of Kelvin's Theorem.
 
-*   thegreidy. "Fellowship of the Ring Smoke Galleon Scene." May 30, 2008. YouTube. {{% resource_link "50310335-37a3-49af-9f90-1f2b36984630" "https://youtu.be/UdE0qjbwwWo" %}}  
+*   thegreidy. "Fellowship of the Ring Smoke Galleon Scene." May 30, 2008. YouTube. [https://youtu.be/UdE0qjbwwWo](https://youtu.be/UdE0qjbwwWo)  
     This guy must have been friends with Lord Kelvin (even looks like him a bit!). Clearly an expert in control of circulation.
 
 Assignment

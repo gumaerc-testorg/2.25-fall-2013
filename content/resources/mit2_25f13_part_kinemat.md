@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to particle kinematics.
 file: /courses/2-25-advanced-fluid-mechanics-fall-2013/9d4f06c79a7e3933afed97e32e719638_MIT2_25F13_Part_Kinemat.pdf
+file_size: 76356
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
