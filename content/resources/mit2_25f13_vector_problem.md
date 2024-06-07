@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to Solutions to Vector Calculus
   Review Problems.
 file: /courses/2-25-advanced-fluid-mechanics-fall-2013/4e853a8045911b4500d4d56b2ac02c20_MIT2_25F13_Vector_Problem.pdf
+file_size: 410974
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

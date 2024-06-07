@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains information regarding advanced fluid mechanics, boundary
   layers, separation, and drag.
 file: /courses/2-25-advanced-fluid-mechanics-fall-2013/16ee1f48a896aaa4a360065d22eab932_MIT2_25F13_Problem9.04.pdf
+file_size: 179000
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
