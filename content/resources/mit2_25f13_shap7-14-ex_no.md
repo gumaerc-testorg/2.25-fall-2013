@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding, advanced fluid mechanics,
   dimensional analysis.
 file: /courses/2-25-advanced-fluid-mechanics-fall-2013/256c875f66ce7c14f4ae40abcfb4d191_MIT2_25F13_Shap7.14-ex_no.pdf
+file_size: 109941
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

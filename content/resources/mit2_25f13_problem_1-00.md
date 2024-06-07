@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to problem 1.00.
 file: /courses/2-25-advanced-fluid-mechanics-fall-2013/31e1092d4dc550cf9db707dcd87518b2_MIT2_25F13_Problem_1.00.pdf
+file_size: 166554
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

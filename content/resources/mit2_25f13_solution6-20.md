@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains information regarding advanced fluid mechanics, more
   complex viscous-dominated flows.
 file: /courses/2-25-advanced-fluid-mechanics-fall-2013/eafe3c57598097ce6b8d4a5fc6e33a7c_MIT2_25F13_Solution6.20.pdf
+file_size: 320490
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

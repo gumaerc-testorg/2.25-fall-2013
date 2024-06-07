@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains information regarding advanced fluid mechanics, surface
   tension and it's importance.
 file: /courses/2-25-advanced-fluid-mechanics-fall-2013/6497c3ded8738e79064b020356d38922_MIT2_25F13_Solution2.02.pdf
+file_size: 150346
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

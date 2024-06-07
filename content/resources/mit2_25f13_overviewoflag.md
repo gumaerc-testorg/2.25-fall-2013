@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to overview of lagrangian
   and eulerian descriptions.
 file: /courses/2-25-advanced-fluid-mechanics-fall-2013/ef8ad42f76f41c1b62ae62effb1e60fb_MIT2_25F13_OverviewofLag.pdf
+file_size: 575426
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

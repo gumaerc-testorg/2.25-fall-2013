@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains information regarding advanced fluid mechanics, more
   complex viscous-dominated flows, flow inside a cylinder which is suddenly rotated.
 file: /courses/2-25-advanced-fluid-mechanics-fall-2013/8ef39a7f2fe60199e760203e43facda7_MIT2_25F13_FlowRotated.pdf
+file_size: 290382
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/2-25-advanced-fluid-mechanics-fall-2013/2bb54339b4265350a2a04c8134b47a4a_MIT2_25F13_Fin_2004_Q2Sol.pdf
+file_size: 977314
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

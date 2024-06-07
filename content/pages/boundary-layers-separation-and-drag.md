@@ -16,7 +16,7 @@ Readings
 
 ### Textbooks
 
-_Reading in:_ Panton, Ronald L. _Incompressible Flow_. 4th ed. Wiley, 2013. ISBN: 9781118013434. \[Preview with {{% resource_link "8a850f21-fb9a-4c40-bed8-caa4583ccc78" "Google Books" %}}\]
+_Reading in:_ Panton, Ronald L. _Incompressible Flow_. 4th ed. Wiley, 2013. ISBN: 9781118013434. \[Preview with [Google Books](http://books.google.com/books?id=sa4eAAAAQBAJ&pg=PAfrontcover)\]
 
 *   Chapter 20: Boundary Layers
     *   20.1: Blasius Flow ever a Flat Plate
@@ -39,7 +39,7 @@ _Reading in:_ Kundu, Pijush K., and Ira M. Cohen. _Fluid Mechanics_. 6th ed. Aca
 
 ### Additional Reading
 
-*   Anderson Jr., John D. {{% resource_link "6e12d291-6d8c-447e-a45c-dc3c80f32f45" "\"Ludwig Prandtl's Boundary Layer.\" (PDF)" %}} _Physics Today_ 58, no. 12 (2005): 42–48.
+*   Anderson Jr., John D. ["Ludwig Prandtl's Boundary Layer." (PDF)](http://www.aps.org/units/dfd/resources/upload/prandtl_vol58no12p42_48.pdf) _Physics Today_ 58, no. 12 (2005): 42–48.
 
 Class Notes
 -----------
@@ -49,7 +49,7 @@ Class Notes
 Video Seen During Class
 -----------------------
 
-*   {{% resource_link "917a0d27-e851-455e-baee-c57e228f6e8f" "Fundamentals-Boundary Layers Video" %}} and {{% resource_link "4f379491-5f6a-4fe4-964a-2dae70b46c62" "Film Notes (PDF - 1.4MB)" %}}
+*   [Fundamentals-Boundary Layers Video](https://youtu.be/wMxK2GtFFq0) and [Film Notes (PDF - 1.4MB)](http://web.mit.edu/hml/ncfmf/10FBL.pdf)
 
 Assignment
 ----------
