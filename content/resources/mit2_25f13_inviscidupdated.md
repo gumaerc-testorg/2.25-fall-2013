@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding advanced fluid mechanics, potential
   flow theory, inviscid flow equation sheet.
-file: /courses/2-25-advanced-fluid-mechanics-fall-2013/b7e15803b6ced6af0255c057c60e9715_MIT2_25F13_InviscidUpdated.pdf
+file: /ol-ocw-studio-app/courses/2-25-advanced-fluid-mechanics-fall-2013/b7e15803b6ced6af0255c057c60e9715_MIT2_25F13_InviscidUpdated.pdf
 file_size: 191839
 file_type: application/pdf
 learning_resource_types: []

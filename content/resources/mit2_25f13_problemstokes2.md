@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding advanced fluid mechanics more
   complex viscous-dominated flows, stokes first problem ATP.
-file: /courses/2-25-advanced-fluid-mechanics-fall-2013/facf156250bc1288179f85e2245e4005_MIT2_25F13_ProblemStokes2.pdf
+file: /ol-ocw-studio-app/courses/2-25-advanced-fluid-mechanics-fall-2013/facf156250bc1288179f85e2245e4005_MIT2_25F13_ProblemStokes2.pdf
 file_size: 176048
 file_type: application/pdf
 learning_resource_types: []

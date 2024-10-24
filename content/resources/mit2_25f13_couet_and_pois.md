@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to couette & poiseuille flows.
-file: /courses/2-25-advanced-fluid-mechanics-fall-2013/1a114d602956fa0dd328155f9b45f93d_MIT2_25F13_Couet_and_Pois.pdf
+file: /ol-ocw-studio-app/courses/2-25-advanced-fluid-mechanics-fall-2013/1a114d602956fa0dd328155f9b45f93d_MIT2_25F13_Couet_and_Pois.pdf
 file_size: 93155
 file_type: application/pdf
 learning_resource_types: []
