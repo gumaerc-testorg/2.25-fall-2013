@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding advanced fluid mechanics, quiz
   2 solutions.
-file: /ol-ocw-studio-app/courses/2-25-advanced-fluid-mechanics-fall-2013/c17a44106364b3650c19b4c9a579d0c5_MIT2_25F13_SolQuiz2.pdf
+file: /courses/2-25-advanced-fluid-mechanics-fall-2013/c17a44106364b3650c19b4c9a579d0c5_MIT2_25F13_SolQuiz2.pdf
 file_size: 843322
 file_type: application/pdf
 learning_resource_types:

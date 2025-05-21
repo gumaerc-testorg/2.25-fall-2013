@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to fundamental laws of motion
   for particles, material volumes, and control volumes.
-file: /ol-ocw-studio-app/courses/2-25-advanced-fluid-mechanics-fall-2013/d11fcb4ad68d875ce88a12c18c263932_MIT2_25F13_Fundam_Law-Son.pdf
+file: /courses/2-25-advanced-fluid-mechanics-fall-2013/d11fcb4ad68d875ce88a12c18c263932_MIT2_25F13_Fundam_Law-Son.pdf
 file_size: 601954
 file_type: application/pdf
 learning_resource_types: []

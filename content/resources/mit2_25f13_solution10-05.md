@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding advanced fluid mechanics, vorticity
   and circulation.
-file: /ol-ocw-studio-app/courses/2-25-advanced-fluid-mechanics-fall-2013/63b38e09f7baa2537ef568e16894f8a6_MIT2_25F13_Solution10.05.pdf
+file: /courses/2-25-advanced-fluid-mechanics-fall-2013/63b38e09f7baa2537ef568e16894f8a6_MIT2_25F13_Solution10.05.pdf
 file_size: 130679
 file_type: application/pdf
 learning_resource_types: []

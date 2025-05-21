@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to solutions to particle kinematics.
-file: /ol-ocw-studio-app/courses/2-25-advanced-fluid-mechanics-fall-2013/2fd00e2d598335737f3bf04bc3374ed0_MIT2_25F13_Part_Kine_Solu.pdf
+file: /courses/2-25-advanced-fluid-mechanics-fall-2013/2fd00e2d598335737f3bf04bc3374ed0_MIT2_25F13_Part_Kine_Solu.pdf
 file_size: 424397
 file_type: application/pdf
 learning_resource_types: []

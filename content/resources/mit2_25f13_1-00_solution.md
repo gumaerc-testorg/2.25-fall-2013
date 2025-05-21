@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to solutions to problem 1.00.
-file: /ol-ocw-studio-app/courses/2-25-advanced-fluid-mechanics-fall-2013/d7d90764b838c71f9086ce33d6fbf0e3_MIT2_25F13_1.00_Solution.pdf
+file: /courses/2-25-advanced-fluid-mechanics-fall-2013/d7d90764b838c71f9086ce33d6fbf0e3_MIT2_25F13_1.00_Solution.pdf
 file_size: 144542
 file_type: application/pdf
 learning_resource_types: []
