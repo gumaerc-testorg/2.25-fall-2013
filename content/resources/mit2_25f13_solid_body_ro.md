@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to solid body rotation, extra
   notes.
-file: /ol-ocw-studio-app/courses/2-25-advanced-fluid-mechanics-fall-2013/bd017dbc7bfe71723ae31c257c0faf0f_MIT2_25F13_Solid_Body_Ro.pdf
+file: /courses/2-25-advanced-fluid-mechanics-fall-2013/bd017dbc7bfe71723ae31c257c0faf0f_MIT2_25F13_Solid_Body_Ro.pdf
 file_size: 99843
 file_type: application/pdf
 learning_resource_types: []

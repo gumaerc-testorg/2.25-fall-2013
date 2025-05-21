@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding advanced fluid mechanics, final
   exam.
-file: /ol-ocw-studio-app/courses/2-25-advanced-fluid-mechanics-fall-2013/cc50bdf595a615c6279b35367995f1e2_MIT2_25F13_FinalExam.pdf
+file: /courses/2-25-advanced-fluid-mechanics-fall-2013/cc50bdf595a615c6279b35367995f1e2_MIT2_25F13_FinalExam.pdf
 file_size: 546436
 file_type: application/pdf
 learning_resource_types:

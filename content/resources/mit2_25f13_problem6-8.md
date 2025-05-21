@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding advanced fluid mechanics, potential
   flow theory.
-file: /ol-ocw-studio-app/courses/2-25-advanced-fluid-mechanics-fall-2013/c07852818b4e04bedd462aa1d9debfb9_MIT2_25F13_Problem6.8.pdf
+file: /courses/2-25-advanced-fluid-mechanics-fall-2013/c07852818b4e04bedd462aa1d9debfb9_MIT2_25F13_Problem6.8.pdf
 file_size: 160932
 file_type: application/pdf
 learning_resource_types: []
