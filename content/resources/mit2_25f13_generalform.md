@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding advanced fluid mechanics, more
   complex viscous-dominated flows, the general form of reynolds equation.
-file: /courses/2-25-advanced-fluid-mechanics-fall-2013/f61bebaf8ad8c2dffcdfb61ed1b36996_MIT2_25F13_GeneralForm.pdf
+file: /ol-ocw-studio-app/courses/2-25-advanced-fluid-mechanics-fall-2013/f61bebaf8ad8c2dffcdfb61ed1b36996_MIT2_25F13_GeneralForm.pdf
 file_size: 627730
 file_type: application/pdf
 learning_resource_types: []

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to equation of motion in streamline
   coordinates.
-file: /courses/2-25-advanced-fluid-mechanics-fall-2013/7d784c60e3ae99f311d0ea7dc2e4d60d_MIT2_25F13_Equation_of_Mo.pdf
+file: /ol-ocw-studio-app/courses/2-25-advanced-fluid-mechanics-fall-2013/7d784c60e3ae99f311d0ea7dc2e4d60d_MIT2_25F13_Equation_of_Mo.pdf
 file_size: 679723
 file_type: application/pdf
 learning_resource_types: []
