@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to, advanced fluid mechanics,
   inviscid flow and bernoulli.
-file: /courses/2-25-advanced-fluid-mechanics-fall-2013/b670c930c3567988d6d8d994d0693e79_MIT2_25F13_Shapi4.04_Sol.pdf
+file: /ol-ocw-studio-app/courses/2-25-advanced-fluid-mechanics-fall-2013/b670c930c3567988d6d8d994d0693e79_MIT2_25F13_Shapi4.04_Sol.pdf
 file_size: 106702
 file_type: application/pdf
 learning_resource_types: []

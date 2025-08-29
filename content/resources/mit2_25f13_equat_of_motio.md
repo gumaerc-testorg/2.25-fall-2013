@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to equation of motion for
   viscous flow.
-file: /courses/2-25-advanced-fluid-mechanics-fall-2013/83aa0d8fd395e8e7d9bc8b236ab4bfe7_MIT2_25F13_Equat_of_Motio.pdf
+file: /ol-ocw-studio-app/courses/2-25-advanced-fluid-mechanics-fall-2013/83aa0d8fd395e8e7d9bc8b236ab4bfe7_MIT2_25F13_Equat_of_Motio.pdf
 file_size: 1880614
 file_type: application/pdf
 learning_resource_types: []

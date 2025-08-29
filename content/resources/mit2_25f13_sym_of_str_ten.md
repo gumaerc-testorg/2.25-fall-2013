@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to, advanced fluid mechanics,
   fluid statics. '
-file: /courses/2-25-advanced-fluid-mechanics-fall-2013/dd8d998533249b8496b2cc0a241dd478_MIT2_25F13_sym_of_str_ten.pdf
+file: /ol-ocw-studio-app/courses/2-25-advanced-fluid-mechanics-fall-2013/dd8d998533249b8496b2cc0a241dd478_MIT2_25F13_sym_of_str_ten.pdf
 file_size: 90611
 file_type: application/pdf
 learning_resource_types: []
