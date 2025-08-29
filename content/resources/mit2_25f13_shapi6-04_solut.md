@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding, advanced fluid mechanics,
   equations of viscous flow.
-file: /courses/2-25-advanced-fluid-mechanics-fall-2013/a0611fc0ab2ec13cc7893a8205362b9e_MIT2_25F13_Shapi6.04_Solut.pdf
+file: /ol-ocw-studio-app/courses/2-25-advanced-fluid-mechanics-fall-2013/a0611fc0ab2ec13cc7893a8205362b9e_MIT2_25F13_Shapi6.04_Solut.pdf
 file_size: 1257776
 file_type: application/pdf
 learning_resource_types: []

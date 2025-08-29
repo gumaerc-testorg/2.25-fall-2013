@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to advanced fluid mechanics,
   dimensional analysis, the buckingham pi theorem in dimensional analysis.
-file: /courses/2-25-advanced-fluid-mechanics-fall-2013/c0a4521f55e9191d557c167e99e97469_MIT2_25F13_The_Buckingham.pdf
+file: /ol-ocw-studio-app/courses/2-25-advanced-fluid-mechanics-fall-2013/c0a4521f55e9191d557c167e99e97469_MIT2_25F13_The_Buckingham.pdf
 file_size: 188421
 file_type: application/pdf
 learning_resource_types: []

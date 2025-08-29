@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding, advanced fluid mechanics,
   Control Volume Theorems and Applications.
-file: /courses/2-25-advanced-fluid-mechanics-fall-2013/7aa7c0c12a08757c2160979ebd3733c7_MIT2_25F13_Shapi5.09_Prob.pdf
+file: /ol-ocw-studio-app/courses/2-25-advanced-fluid-mechanics-fall-2013/7aa7c0c12a08757c2160979ebd3733c7_MIT2_25F13_Shapi5.09_Prob.pdf
 file_size: 167818
 file_type: application/pdf
 learning_resource_types: []
