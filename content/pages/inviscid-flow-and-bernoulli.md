@@ -14,7 +14,7 @@ uid: c8443c53-a0eb-0285-5b68-d67bfa778cea
 
 ### Textbooks
 
-*Reading in*: Panton, Ronald L. *Incompressible Flow*. 4th ed. Wiley, 2013. ISBN: 9781118013434. \[Preview with [Google Books](http://books.google.com/books?id=sa4eAAAAQBAJ&pg=PAfrontcover)\]
+*Reading in*: Panton, Ronald L. *Incompressible Flow*. 4th ed. Wiley, 2013. ISBN: 9781118013434. \[Preview with {{% resource_link "e62fdc7f-ebbf-4c1a-a272-12594aaf29d8" "Google Books" %}}\]
 
 - Chapter 7: Some Incompressible Flow Patterns
     - 7.1: Pressure-Driven Flow in a Slot
@@ -28,9 +28,9 @@ uid: c8443c53-a0eb-0285-5b68-d67bfa778cea
 
 ### Additional Readings
 
-- [Professor Jane Wang's website](http://dragonfly.tam.cornell.edu/) on dragonfly flight and the role of vorticity shedding in fluttering and tumbling.
-- [Vortex Ring Gun website](https://www.battelle.org/newsroom/in-the-news/battelle-develops-vortex-ring-gun-for-firefighters-pesticide-delivery). A quick web-search shows that these "non-lethal weapons" are still actively being considered.
-- [NASA Aircraft Complete Wingtip Vortex Study](https://spacenews.com/nasa-aircraft-complete-wingtip-vortex-study/).
+- {{% resource_link "9f960cb6-93c7-49b0-acbf-ac8e374c38e4" "Professor Jane Wang's website" %}} on dragonfly flight and the role of vorticity shedding in fluttering and tumbling.
+- {{% resource_link "ee356b7f-814c-48e6-b9b4-18b0c9f18b96" "Vortex Ring Gun website" %}}. A quick web-search shows that these "non-lethal weapons" are still actively being considered.
+- {{% resource_link "1fa694ee-9a83-4bc0-9817-7611ed524d40" "NASA Aircraft Complete Wingtip Vortex Study" %}}.
 
 ## Class Notes
 
@@ -39,7 +39,7 @@ uid: c8443c53-a0eb-0285-5b68-d67bfa778cea
 
 ## Video Seen During Class
 
-- [Pressure Fields and Fluid Acceleration Video](https://youtu.be/LI9Mi1KhFTs) and [Film Notes (PDF - 1.3MB)](http://web.mit.edu/hml/ncfmf/06PFFA.pdf)
+- {{% resource_link "a59f4ae6-20ed-44d4-984f-7a196c9c59a1" "Pressure Fields and Fluid Acceleration Video" %}} and {{% resource_link "11289e3d-b098-4161-9fbb-4913df007767" "Film Notes (PDF - 1.3MB)" %}}
 
 ## Assignment
 
