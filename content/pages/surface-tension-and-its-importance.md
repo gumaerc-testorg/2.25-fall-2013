@@ -19,19 +19,19 @@ No textbook readings in this section.
 
 ### Additional Readings
 
-*   Eggers, Jens, and Emmanuel Villermaux. "[Physics of Liquid Jets](https://iopscience.iop.org/article/10.1088/0034-4885/71/3/036601/pdf)." _Reports on Progress in Physics_ 71, no. 3 (2008): 036601.
-*   [Prof. John Bush's Website](http://www-math.mit.edu/~bush/fish.htm). Professor John Bush has many images of surface tension related phenomena, including water striders walking, jumping, and playing on the water's surface.
-*   [Complex Fluids and Interfacial Physics Laboratory](http://www.seas.ucla.edu/cfip/) website.
-*   Woodward, Ian. "[Plant Science: Tall Storeys](http://dx.doi.org/10.1038/428807a)." _Nature_ 428, no. 6985 (2004): 807–08.
-*   Thoroddsen, S. T., and K. Takehara. "[The Coalescence Cascade of a Drop](http://dx.doi.org/10.1063/1.870380)." _Physics of Fluids_ 12, no. 6 (2000): 1265–67.
+*   Eggers, Jens, and Emmanuel Villermaux. "{{% resource_link "203cb98b-69ad-40b0-9455-cdec87e695bc" "Physics of Liquid Jets" %}}." _Reports on Progress in Physics_ 71, no. 3 (2008): 036601.
+*   {{% resource_link "726cf9ff-2e0a-4ff7-bd44-818fd14287f8" "Prof. John Bush's Website" %}}. Professor John Bush has many images of surface tension related phenomena, including water striders walking, jumping, and playing on the water's surface.
+*   {{% resource_link "bb2364eb-9fe7-4623-b586-86ee4c128e1a" "Complex Fluids and Interfacial Physics Laboratory" %}} website.
+*   Woodward, Ian. "{{% resource_link "beec2379-8dd1-413a-aad3-865b6057882f" "Plant Science: Tall Storeys" %}}." _Nature_ 428, no. 6985 (2004): 807–08.
+*   Thoroddsen, S. T., and K. Takehara. "{{% resource_link "dec7c853-db84-40a0-9aab-13e7649c0211" "The Coalescence Cascade of a Drop" %}}." _Physics of Fluids_ 12, no. 6 (2000): 1265–67.
 
 Videos Seen During Class
 ------------------------
 
-*   [Surface Tension in Fluid Mechanics Video](https://youtu.be/MUlmkSnrAzM) and [Film Notes (PDF - 1.1MB)](http://web.mit.edu/hml/ncfmf/04STFM.pdf)
-*   [Gobbling Droplets](http://web.mit.edu/nnf/people/jbico/Research.html#gobbling)
-*   Public Domain TV. "NASA: Amazing Experiments with Water in Zero Gravity." August 1, 2012. YouTube. [https://youtu.be/ntQ7qGilqZE](https://youtu.be/ntQ7qGilqZE)
-*   Dan Hentschel. "NASA Water Balloons in Zero G (High Quality)." October 18, 2009. YouTube. [http://youtu.be/gTqLQO3L4Ko](http://youtu.be/gTqLQO3L4Ko)
+*   {{% resource_link "c2ae1163-bb81-46c6-ba40-2d5db61123da" "Surface Tension in Fluid Mechanics Video" %}} and {{% resource_link "445db752-b1ba-4773-bf93-aa5643e92404" "Film Notes (PDF - 1.1MB)" %}}
+*   {{% resource_link "9a1dfd5f-912e-45ab-ac6a-b26e65759566" "Gobbling Droplets" %}}
+*   Public Domain TV. "NASA: Amazing Experiments with Water in Zero Gravity." August 1, 2012. YouTube. {{% resource_link "8095535c-e2d4-4cfc-847e-4bbb76978dc5" "https://youtu.be/ntQ7qGilqZE" %}}
+*   Dan Hentschel. "NASA Water Balloons in Zero G (High Quality)." October 18, 2009. YouTube. {{% resource_link "94c89305-9e59-4aec-895a-6c744fb2db91" "http://youtu.be/gTqLQO3L4Ko" %}}
 
 Assignment
 ----------

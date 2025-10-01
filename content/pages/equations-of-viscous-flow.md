@@ -15,7 +15,7 @@ Readings
 
 ### Textbooks
 
-_Reading in:_ Panton, Ronald L. _Incompressible Flow_. 4th ed. Wiley, 2013. ISBN: 9781118013434. \[Preview with [Google Books](http://books.google.com/books?id=sa4eAAAAQBAJ&pg=PAfrontcover)\]
+_Reading in:_ Panton, Ronald L. _Incompressible Flow_. 4th ed. Wiley, 2013. ISBN: 9781118013434. \[Preview with {{% resource_link "e62fdc7f-ebbf-4c1a-a272-12594aaf29d8" "Google Books" %}}\]
 
 *   Chapter 6: Newtonian Fluids and the Navier-Stokes Equations
 
@@ -29,8 +29,7 @@ _Reading in:_ Kundu, Pijush K., and Ira M. Cohen. _Fluid Mechanics_. 6th ed. Aca
     *   8.5: Flow Due to an Oscillating Plate
     *   8.6: Low Reynolds Number Viscous Flow Past a Sphere
 
-_Reading in:_ [![Buy at MIT
-Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262061650) Fay, James A. _Introduction to Fluid Mechanics_. MIT Press, 1994. ISBN: 9780262061650. \[Preview with [Google Books](http://books.google.com/books?id=XGVpue4954wC&pg=PAfrontcover)\]
+_Reading in:_ {{% resource_link "74e1376c-f933-4705-99a2-853f3978ae51" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Fay, James A. _Introduction to Fluid Mechanics_. MIT Press, 1994. ISBN: 9780262061650. \[Preview with {{% resource_link "4f0a5078-5521-48b9-83ae-5e8cbd874f0f" "Google Books" %}}\]
 
 *   Chapter 6: Laminar Viscous Flow
     *   6.1: Introduction
@@ -41,13 +40,13 @@ Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262061650) Fay, James 
 
 ### Additional Readings
 
-*   [Google Data Centers](http://www.google.com/about/datacenters/gallery/#/). Photographs of how Google has set up the pipe networks in its data centers.
-*   Avila, Kerstin, David Moxey, et al. "[The Onset of Turbulence in Pipe Flow](http://dx.doi.org/10.1126/science.1203223)." _Science_ 333, no. 6039 (2011): 192–96.
-*   ["A General Guide to the Principles, Operation and Troubleshooting of Hydrodynamic Bearings." (PDF - 2.3MB)](http://www.kingsbury.com/pdf/universe_brochure.pdf) Kingsbury, Inc.
+*   {{% resource_link "81aee187-1437-4e04-957d-5ce334b1d0e1" "Google Data Centers" %}}. Photographs of how Google has set up the pipe networks in its data centers.
+*   Avila, Kerstin, David Moxey, et al. "{{% resource_link "ee5b037c-ee13-4055-ac08-ae5c901c3f95" "The Onset of Turbulence in Pipe Flow" %}}." _Science_ 333, no. 6039 (2011): 192–96.
+*   {{% resource_link "1c790de1-cd17-4058-8831-865670a21282" "\"A General Guide to the Principles, Operation and Troubleshooting of Hydrodynamic Bearings.\" (PDF - 2.3MB)" %}} Kingsbury, Inc.
 *   Zeidan, F. Y., and Dilip Jain. "Application of Hydrodynamic Thrust Bearings in Submersible Pumps." Paper presented at the ESP Workshop held in Houston, TX, April 26–28, 2000.
-*   McHugh, Jim. ["Albert Kingsbury – His Life and Times." (PDF)](http://www.massengineers.com/Documents/albert_kingsbury.pdf) _Sound & Vibration_. October 2003.
+*   McHugh, Jim. {{% resource_link "a72ec121-0c61-4c0e-bcc2-f317d01d5fdc" "\"Albert Kingsbury – His Life and Times.\" (PDF)" %}} _Sound & Vibration_. October 2003.
 *   Table B2: The Equation of Motion for a Newtonian Fluid with Constant Density (ρ) and Constant Viscosity (μ) from Bird, R. Byron, Robert C. Armstrong, and Ole Hassager. _Dynamics of Polymeric Liquids, Fluid Mechanics_. Vol. 1. Wiley-Interscience, 1987. ISBN: 9780471802457.
-*   [SpaceShipOne and White Knight](https://airandspace.si.edu/multimedia-gallery/spaceshipone-and-white-knightnasm-9a03260jpg) website.
+*   {{% resource_link "c97700c0-26ce-4bad-a815-2825c3057e6a" "SpaceShipOne and White Knight" %}} website.
 
 Class Notes
 -----------
@@ -59,7 +58,7 @@ Class Notes
 Videos Seen During Class
 ------------------------
 
-*   [Low Reynolds Number Flow Video](https://youtu.be/51-6QCJTAjU) and [Film Notes (PDF - 1.6MB)](http://web.mit.edu/hml/ncfmf/07LRNF.pdf)
+*   {{% resource_link "a7872d3a-0df2-4d57-9132-a27abc8ef2f2" "Low Reynolds Number Flow Video" %}} and {{% resource_link "06b4b47a-1910-4aca-8bfc-f44c7ba86252" "Film Notes (PDF - 1.6MB)" %}}
 *   Liquid-Liquid Boundary Conditions Video from Homsy, G. M., ed. _Multimedia Fluid Mechanics_. 2nd ed. Cengage Learning, 2011. ISBN: 9780521721691.
 
 Assignment

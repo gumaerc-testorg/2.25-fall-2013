@@ -15,7 +15,7 @@ Readings
 
 ### Textbooks
 
-_Reading in:_ Panton, Ronald L. _Incompressible Flow_. 4th ed. Wiley, 2013. ISBN: 9781118013434. \[Preview with [Google Books](http://books.google.com/books?id=sa4eAAAAQBAJ&pg=PAfrontcover)\]
+_Reading in:_ Panton, Ronald L. _Incompressible Flow_. 4th ed. Wiley, 2013. ISBN: 9781118013434. \[Preview with {{% resource_link "e62fdc7f-ebbf-4c1a-a272-12594aaf29d8" "Google Books" %}}\]
 
 *   Chapter 8: Dimensional Analysis
 
@@ -27,8 +27,7 @@ _Reading in:_ Kundu, Pijush K., and Ira M. Cohen. _Fluid Mechanics_. 6th ed. Aca
 *   Chapter 4: Conservation Laws
     *   4.11: Dimensionless Forms of the Equations and Dynamic Similarity
 
-_Reading in:_ [![Buy at MIT
-Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262061650) Fay, James A. _Introduction to Fluid Mechanics_. MIT Press, 1994. ISBN: 9780262061650. \[Preview with [Google Books](http://books.google.com/books?id=XGVpue4954wC&pg=PAfrontcover)\]
+_Reading in:_ {{% resource_link "74e1376c-f933-4705-99a2-853f3978ae51" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Fay, James A. _Introduction to Fluid Mechanics_. MIT Press, 1994. ISBN: 9780262061650. \[Preview with {{% resource_link "4f0a5078-5521-48b9-83ae-5e8cbd874f0f" "Google Books" %}}\]
 
 *   Chapter 10: Dimensional Analysis and Modelling
 
@@ -39,7 +38,7 @@ Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262061650) Fay, James 
 Class Notes
 -----------
 
-*   [The Physical Basis of Dimensional Analysis (PDF)](http://web.mit.edu/2.25/www/pdf/DA_unified.pdf)
+*   {{% resource_link "ce31b998-3db3-4a7d-8952-f6c710f00395" "The Physical Basis of Dimensional Analysis (PDF)" %}}
 *   {{% resource_link 506579a6-771b-7004-e583-ea8b28423b7c "Similarity (PDF)" %}}
 *   {{% resource_link c0a4521f-55e9-191d-557c-167e99e97469 "The Buckingham Pi Theorem in Dimensional Analysis (PDF)" %}}
 
