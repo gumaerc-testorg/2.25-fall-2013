@@ -16,14 +16,13 @@ Readings
 
 ### Textbooks
 
-_Reading in:_ Panton, Ronald L. _Incompressible Flow_. 4th ed. Wiley, 2013. ISBN: 9781118013434. \[Preview with [Google Books](http://books.google.com/books?id=sa4eAAAAQBAJ&pg=PAfrontcover)\]
+_Reading in:_ Panton, Ronald L. _Incompressible Flow_. 4th ed. Wiley, 2013. ISBN: 9781118013434. \[Preview with {{% resource_link "e62fdc7f-ebbf-4c1a-a272-12594aaf29d8" "Google Books" %}}\]
 
 *   Chapter 1: Continuum Mechanics
 *   Chapter 3: Vector Calculus and Index Notation
 *   Chapter 4: Kinematics of Local Fluid Motion
 
-_Reading in:_ [![Buy at MIT 
-Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262061650) Fay, James A. _Introduction to Fluid Mechanics_. MIT Press, 1994. ISBN: 9780262061650. \[Preview with [Google Books](http://books.google.com/books?id=XGVpue4954wC&pg=PAfrontcover)\]
+_Reading in:_ {{% resource_link "74e1376c-f933-4705-99a2-853f3978ae51" "![Buy at MIT  Press](/images/mp_logo.gif)" %}} Fay, James A. _Introduction to Fluid Mechanics_. MIT Press, 1994. ISBN: 9780262061650. \[Preview with {{% resource_link "4f0a5078-5521-48b9-83ae-5e8cbd874f0f" "Google Books" %}}\]
 
 *   Chapter 1: Introduction
 *   Chapter 2: Fluid Statics
@@ -45,9 +44,9 @@ _Reading in:_ Tritton, D. J. _Physical Fluid Dynamics_. Springer, 2013. ISBN: 97
 
 ### Additional Readings
 
-*   Figures 11 and 12 of Coutanceau, Madeleine, and Patrick Thizon. "[Wall Effect on the Bubble Behaviour in Highly Viscous Liquids](http://dx.doi.org/10.1017/S0022112081001808)." _Journal of Fluid Mechanics_ 107 (1981): 339–73.
-*   Matthews, Jermey N. A. "[Low-drag Suit Propels Swimmers](http://dx.doi.org/10.1063/1.2970208)." _Physics Today_ 61, no. 8 (2008).
-*   Pope, Stephen B. _Turbulent Flows_. Cambridge University Press, 2000, pp. 24–32. ISBN: 9780521591256. \[Preview with [Google Books](http://books.google.com/books?id=HZsTw9SMx-0C&pg=PA24=onepage)\]
+*   Figures 11 and 12 of Coutanceau, Madeleine, and Patrick Thizon. "{{% resource_link "1eae2761-bff0-45b4-bbc7-84ff3800027d" "Wall Effect on the Bubble Behaviour in Highly Viscous Liquids" %}}." _Journal of Fluid Mechanics_ 107 (1981): 339–73.
+*   Matthews, Jermey N. A. "{{% resource_link "40a86599-2060-4cc6-9fa2-773f5d971039" "Low-drag Suit Propels Swimmers" %}}." _Physics Today_ 61, no. 8 (2008).
+*   Pope, Stephen B. _Turbulent Flows_. Cambridge University Press, 2000, pp. 24–32. ISBN: 9780521591256. \[Preview with {{% resource_link "46677cd3-2769-467b-bb31-47b2e36ecc73" "Google Books" %}}\]
 
 Class Notes
 -----------
@@ -56,13 +55,13 @@ Class Notes
 *   {{% resource_link 684c85df-01ed-b74b-cd1d-36e0a210de6e "Geometric Interpretation of Fluid Kinematics In Steady Shear Flow (PDF)" %}}
 *   {{% resource_link 5f1e3b9e-fcff-d44a-65f3-812887ff30e1 "The Continuity Equation: Conservation of Mass for a Fluid Element (PDF)" %}}
 *   {{% resource_link bd017dbc-7bfe-7172-3ae3-1c257c0faf0f "Solid Body Rotation, Extra Notes (PDF)" %}}
-*   [Images of Shark Dermal Denticles (via Google Images)](https://www.google.com/search?client=safari&rls=en&q=shark+denticles&ie=UTF&tbm=isch&gws_rd=ssl)
+*   {{% resource_link "9efedf5d-ca47-4db8-8457-dd54a7662296" "Images of Shark Dermal Denticles (via Google Images)" %}}
 
 Videos Seen During Class
 ------------------------
 
-*   [Eulerian Lagrangian Description video](https://youtu.be/mdN8OOkx2ko) and [Film Notes (PDF)](http://web.mit.edu/hml/ncfmf/01ELDFM.pdf)
-*   [Flow Visualization Video](https://youtu.be/nuQyKGuXJOs) and [Film Notes (PDF - 1.1MB)](http://web.mit.edu/hml/ncfmf/05FV.pdf)
+*   {{% resource_link "7c7fcae2-97cf-47e1-82c6-7cd670c7d549" "Eulerian Lagrangian Description video" %}} and {{% resource_link "465d68a9-69c3-4ab1-88e3-6edfb7b0cd75" "Film Notes (PDF)" %}}
+*   {{% resource_link "5e8dbc05-f2c9-421d-9ae3-ed63423dba99" "Flow Visualization Video" %}} and {{% resource_link "1962308d-fa64-4976-b286-2109cebcfeb8" "Film Notes (PDF - 1.1MB)" %}}
 
 {{< anchor "assignment" >}}{{< /anchor >}}Assignment
 ----------------------------------------------------

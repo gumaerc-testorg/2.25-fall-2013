@@ -15,7 +15,7 @@ Readings
 
 ### Textbooks
 
-_Reading in:_ Panton, Ronald L. _Incompressible Flow_. 4th ed. Wiley, 2013. ISBN: 9781118013434. \[Preview with [Google Books](http://books.google.com/books?id=sa4eAAAAQBAJ&pg=PAfrontcover)\]
+_Reading in:_ Panton, Ronald L. _Incompressible Flow_. 4th ed. Wiley, 2013. ISBN: 9781118013434. \[Preview with {{% resource_link "e62fdc7f-ebbf-4c1a-a272-12594aaf29d8" "Google Books" %}}\]
 
 *   Chapter 5: Basic Laws
 
@@ -32,15 +32,14 @@ _Reading in:_ Kundu, Pijush K., and Ira M. Cohen. _Fluid Mechanics_. 6th ed. Aca
     *   4.8: Conservation of Energy
     *   4.9: Special Forms of the Equations; Angular Momentum Principle for a Stationary Control Volume; Bernoulli Equations; Neglect of Gravity in Constant Density Flows; The Boussinesq Approximation; Summary
 
-_Reading in:_ [![Buy at MIT
-Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262061650) Fay, James A. _Introduction to Fluid Mechanics_. MIT Press, 1994. ISBN: 9780262061650. \[Preview with [Google Books](http://books.google.com/books?id=XGVpue4954wC&pg=PAfrontcover)\]
+_Reading in:_ {{% resource_link "74e1376c-f933-4705-99a2-853f3978ae51" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Fay, James A. _Introduction to Fluid Mechanics_. MIT Press, 1994. ISBN: 9780262061650. \[Preview with {{% resource_link "4f0a5078-5521-48b9-83ae-5e8cbd874f0f" "Google Books" %}}\]
 
 *   Chapter 3: Conservation of Mass
 *   Chapter 5: Conservation of Momentum
 
 ### Additional Reading
 
-*   Vincenti, Walter G. "[Control-volume Analysis: A Difference in Thinking Between Engineering and Physics](http://www.jstor.org/stable/3104129)." _Technology and Culture_ 23, no. 2 (1982): 145–74.
+*   Vincenti, Walter G. "{{% resource_link "c941c305-4b11-4044-9780-daa129a2b4da" "Control-volume Analysis: A Difference in Thinking Between Engineering and Physics" %}}." _Technology and Culture_ 23, no. 2 (1982): 145–74.
 
 Class Notes
 -----------

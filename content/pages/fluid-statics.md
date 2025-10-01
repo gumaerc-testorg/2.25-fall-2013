@@ -19,7 +19,7 @@ No textbook readings in this section.
 
 ### Additional Reading
 
-*   ["Liquid Mirrors" website](http://www.astro.ubc.ca/LMT/lm/index.html). A useful application of rigid body rotation: Large mercury liquid mirror technology.
+*   {{% resource_link "7a1d8b0a-02fe-4ade-b5c2-8a3b41a12624" "\"Liquid Mirrors\" website" %}}. A useful application of rigid body rotation: Large mercury liquid mirror technology.
 
 Class Notes
 -----------

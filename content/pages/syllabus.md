@@ -19,7 +19,7 @@ Tutorials: 1 session / week, 1 hour / session (Students attend one of three tuto
 Prerequisites
 -------------
 
-[_2.006 Thermal-Fluids Engineering II_](http://student.mit.edu/catalog/m2a.html#2.006) or [_2.06 Fluid Dynamics_](/courses/2-06-fluid-dynamics-spring-2013)
+{{% resource_link "f5600ad1-f8be-484e-a88c-fcae33b18ade" "_2.006 Thermal-Fluids Engineering II_" %}} or [_2.06 Fluid Dynamics_](/courses/2-06-fluid-dynamics-spring-2013)
 
 Co-requisites
 -------------
@@ -34,7 +34,7 @@ This course is a survey of principal concepts and methods of fluid dynamics. Top
 Textbooks
 ---------
 
-Panton, Ronald L. _Incompressible Flow_. 4th ed. Wiley, 2013. ISBN: 9781118013434. \[Preview with [Google Books](http://books.google.com/books?id=sa4eAAAAQBAJ&pg=PAfrontcover)\]
+Panton, Ronald L. _Incompressible Flow_. 4th ed. Wiley, 2013. ISBN: 9781118013434. \[Preview with {{% resource_link "e62fdc7f-ebbf-4c1a-a272-12594aaf29d8" "Google Books" %}}\]
 
 Shapiro, Ascher H., and Ain A. Sonin. _Advanced Fluid Mechanics Problems_. (Self-published manuscript.)
 
@@ -42,14 +42,14 @@ Shapiro, Ascher H., and Ain A. Sonin. _Advanced Fluid Mechanics Problems_. (Self
 
 Kundu, Pijush K., and Ira M. Cohen. _Fluid Mechanics_. 6th ed. Academic Press, 2015. ISBN: 9780124059351.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262061650) Fay, James A. _Introduction to Fluid Mechanics_. MIT Press, 1994. ISBN: 9780262061650. \[Preview with [Google Books](http://books.google.com/books?id=XGVpue4954wC&pg=PAfrontcover)\]
+{{% resource_link "74e1376c-f933-4705-99a2-853f3978ae51" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Fay, James A. _Introduction to Fluid Mechanics_. MIT Press, 1994. ISBN: 9780262061650. \[Preview with {{% resource_link "4f0a5078-5521-48b9-83ae-5e8cbd874f0f" "Google Books" %}}\]
 
 Tritton, D. J. _Physical Fluid Dynamics_. Springer, 2013. ISBN: 9780442301323.
 
-Schlichting, H., and K. Gersten. _Boundary Layer Theory_. Springer, 2000. ISBN: 9783540662709. \[Preview with [Google Books](http://books.google.com/books?id=8YugVtom1y4C&pg=PAfrontcover)\]
+Schlichting, H., and K. Gersten. _Boundary Layer Theory_. Springer, 2000. ISBN: 9783540662709. \[Preview with {{% resource_link "e7d1f5fc-2d98-448e-982a-e212398c7b8b" "Google Books" %}}\]
 
 _This journal publishes excellent reviews of the state of the art in all areas of fluid mechanics:_  
-[Annual Review of Fluid Mechanics](http://www.annualreviews.org/journal/fluid)
+{{% resource_link "48a6dc41-8351-41a3-9560-da7b2861683f" "Annual Review of Fluid Mechanics" %}}
 
 _We will occasionally use this DVD in class:_
 
